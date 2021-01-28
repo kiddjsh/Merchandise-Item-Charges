@@ -104,8 +104,10 @@ namespace ExcerciseW2
         }
     }
 }
-
 ```
 
 # Complete Working Program
 ![Complete Working Program](https://raw.githubusercontent.com/kiddjsh/Merchandise-Item-Charges/main/images/Items_Complete%20Working%20Program.PNG)
+
+# Desk Check
+![Desk Check](https://raw.githubusercontent.com/kiddjsh/Merchandise-Item-Charges/main/images/Items_Desk%20Check.PNG)
